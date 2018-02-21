@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kantor Wiek</string>
+    <string name="welcome">Zapraszam</string>
+    <string name="guestName">Imię</string>
+    <string name="loginButton">Logowanie</string>
+    <string name="confirmation">Potwierdź kod</string>
+    <string name="error">Wpisz</string>
+    <string name="errorDate">Data urodzenia</string>
+    <string name="grt">Witam</string>
+    <string name="gallery_activity">Galeria</string>
+    <string name="maps_activity">Lokalizacja</string>
+    <string name="exchange_activity">Kalkulator walutowy</string>
+    <string name="continue_button">Dalej</string>
+    <string name="firstLocation">Currency Exchange Service Wiek</string>
+    <string name="secondLocation">Currency Exchange Service Wiek II</string>
+    <string name="secondStreet">"CH Arkadia, ul.Aleja Jana Pawła II 82, 00-175 "</string>
+    <string name="firstStreet">"CH Galeria Wileńska, ul.Targowa 72, 03-734 "</string>
+    <string name="select">Data urodzenia</string>
+    <string name="exchangeButton">Potwierdź</string>
+    <string name="calculate">Oblicz</string>
+    <string name="in">w</string>
+    <string name="incompleteDate">Nie masz 14 lat</string>
+    <string name="emptyDate">Proszę wpisać</string>
+    <string name="toggleButtonOn">Wł</string>
+    <string name="toggleButtonOf">WŁN</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="value">Wartość</string>
+    <string name="sameCurr">Masz jednakowe waluty</string>
+</resources>
